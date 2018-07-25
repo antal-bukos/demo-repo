@@ -7,4 +7,4 @@ xyz
 change on master
 another change on master
 
-another-new-branch
+some change on master another-new-branch
